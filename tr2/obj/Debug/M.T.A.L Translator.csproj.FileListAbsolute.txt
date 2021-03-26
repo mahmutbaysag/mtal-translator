@@ -1,0 +1,20 @@
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\x86\CefSharp.WinForms.dll
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\x86\CefSharp.WinForms.pdb
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\x86\CefSharp.WinForms.XML
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\x64\CefSharp.WinForms.dll
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\x64\CefSharp.WinForms.pdb
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\x64\CefSharp.WinForms.XML
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\MetroFramework.Design.dll
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\MetroFramework.dll
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\astro\source\repos\tr2\tr2\obj\Debug\tr2.Form1.resources
+C:\Users\astro\source\repos\tr2\tr2\obj\Debug\tr2.Properties.Resources.resources
+C:\Users\astro\source\repos\tr2\tr2\obj\Debug\M.T.A.L Translator.csproj.GenerateResource.cache
+C:\Users\astro\source\repos\tr2\tr2\obj\Debug\M.T.A.L Translator.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\tr2\tr2\obj\Debug\M.T.A.L Translator.csproj.CopyComplete
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\M.T.A.L Translator.exe.config
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\M.T.A.L Translator.exe
+C:\Users\astro\source\repos\tr2\tr2\bin\Debug\M.T.A.L Translator.pdb
+C:\Users\astro\source\repos\tr2\tr2\obj\Debug\M.T.A.L Translator.csprojAssemblyReference.cache
+C:\Users\astro\source\repos\tr2\tr2\obj\Debug\M.T.A.L Translator.exe
+C:\Users\astro\source\repos\tr2\tr2\obj\Debug\M.T.A.L Translator.pdb
